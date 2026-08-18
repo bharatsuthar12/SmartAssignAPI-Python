@@ -25,7 +25,7 @@ def root():
     }
 
 
-@app.get("/api/Jira/test")
+@app.get("/api/Jira/test123")
 async def test_jira():
 
     try:
